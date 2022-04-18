@@ -1,0 +1,2 @@
+2022-04-17T09:06:24+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 32768 bytes) in C:\xampp\htdocs\drop\wp-content\plugins\wordpress-seo\inc\options\class-wpseo-taxonomy-meta.php on line 395
+
